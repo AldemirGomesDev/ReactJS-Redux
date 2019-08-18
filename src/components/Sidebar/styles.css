@@ -1,0 +1,34 @@
+.sideBar {
+    margin: 0;
+    padding: 20px 30px 10px 20px;
+    width: 350px;
+    background: #584f73;
+}
+
+.sideBar span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    color: #000000;
+}
+
+.sideBar span:hover {
+    color: #ffffff;
+}
+
+.sideBar strong {
+    margin-left: 10px;
+    color: #000000;
+}
+
+strong {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 0 5px 0;
+}

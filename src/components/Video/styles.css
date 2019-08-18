@@ -1,0 +1,36 @@
+.video {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.video strong {
+    margin-top: 10px;
+    font-size: 20pt;
+}
+
+.video span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+}
+
+.video-player {
+    margin-top: 20px;
+    width: 820px;
+    height: 520px;
+}
+
+.video-main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    width: 820px;
+    height: 520px;
+}

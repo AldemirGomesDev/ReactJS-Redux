@@ -1,0 +1,25 @@
+header {
+    background: #282434;
+    height: 100px;
+    width: 100%;
+    padding: 0 0 0 20px;
+}
+
+header#-header {
+    border-bottom: 1px solid #DDD;
+}
+
+header#main-header .header-content {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+.title a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
